@@ -1,8 +1,8 @@
-Todo List App
+**Todo List App**
 
 A lightweight, responsive, and accessible task management application built with HTML, CSS, and JavaScript. The Todo List App allows users to create, categorize, and manage tasks entirely on the client side with offline persistence and WCAG 2.1–compliant accessibility.
 
-Features
+**Features**
 
 Task Management: Create, edit, and delete tasks.
 
@@ -44,7 +44,7 @@ To_Do-List/
     ├── education.png
     └── saving.png
 
-Getting Started
+**Getting Started**
 
 Clone the repository and open index.html to run locally:
 
